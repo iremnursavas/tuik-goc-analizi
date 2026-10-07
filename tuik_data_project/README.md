@@ -9,11 +9,11 @@ TÜİK 2025 İç Göç İstatistikleri'ni kullanarak Türkiye'de göçün gerçe
 - TÜİK Açık Veri Portalı
 
 ## Ana Bulgular
-1. Türkiye'de göçün bir numaralı nedeni "daha iyi konut/yaşam koşulları" (564.114 kişi).
+1. Türkiye'de göçün bir numaralı nedeni "hanedeki fertlere bağımlı göç" (564.114 kişi).
 2. "İş bulmak" göç nedenleri arasında sadece 5. sırada (219.490 kişi).
-3. İstanbul, en çok göç alan şehir ama aynı zamanda en çok göç veren şehir.
-4. İstanbul'da göçün bir numaralı nedeni "ailevi nedenler", Ankara'da ise "daha iyi konut/yaşam".
-5. En çok net göç alan il Ankara (+31.172), en çok net göç veren il İstanbul (-41.346).
+3. İstanbul, en çok net göç veren il (-41.346 kişi). Tarihinde ilk kez net göç kaybediyor.
+4. Ankara, en çok net göç alan il (+31.172 kişi).
+5. Antalya, Muğla, Tekirdağ gibi yaşam kalitesi yüksek şehirler net göç alıyor.
 
 ## Sonuç ve Öneri
-TÜİK 2025 verileri, Türkiye'de göçün temel motivasyonunun işsizlik değil, yaşam kalitesi arayışı olduğunu gösteriyor. Şehir planlamacıları ve politika yapıcılar, göçü yönetmek için sadece istihdam yaratmaya değil, aynı zamanda konut kalitesi, yaşam standartları ve aile dostu politikalar geliştirmeye odaklanmalıdır.
+TÜİK 2025 verileri, Türkiye'de göçün temel motivasyonunun işsizlik değil, aile ve yaşam kalitesi olduğunu gösteriyor. İstanbul'un net göç kaybı, metropollerin cazibesini yitirdiğini işaret ediyor. Şehir planlamacıları ve politika yapıcılar, göçü yönetmek için sadece istihdam yaratmaya değil, aynı zamanda konut kalitesi, yaşam standartları ve aile dostu politikalar geliştirmeye odaklanmalıdır.
